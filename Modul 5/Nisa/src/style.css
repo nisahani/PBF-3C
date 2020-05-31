@@ -1,0 +1,48 @@
+body {
+    background-image: url(https://diujunglangit.com/wp-content/uploads/2019/03/1-16-780x405.jpg);
+    padding: 20px;
+    margin: 0;
+  }
+.judul {
+    background-color: rgb(252, 197, 240);
+}
+.title {
+    color: black;
+}
+.subtitle {
+    color: black;
+}
+h1, h2, p, ul, li {
+    font-family: sans-serif;
+}
+ul.header li {
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+}
+ul.header {
+    background-color: rgb(255, 124, 227);
+    padding: 0;
+}
+ul.header li a {
+    color: #FFF;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 20px;
+    display: inline-block;
+}
+.content {
+    background-color: #FFF;
+    padding: 20px;
+}
+.content h2 {
+    padding: 0;
+    margin: 0;
+}
+.content li {
+    margin-bottom: 10px;
+}
+  .about table{
+    color: black;
+}
+    

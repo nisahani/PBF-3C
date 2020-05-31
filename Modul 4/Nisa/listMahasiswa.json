@@ -1,0 +1,22 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1741720164,
+      "nama": "Nisa Nurrochmah Hani",
+      "alamat": "Kota Malang",
+      "hp": "082118664434",
+      "angkatan": 2017,
+      "status": "aktif"
+    },
+    {
+      "NIM": "",
+      "nama": "Kamu siapa ya",
+      "alamat": "",
+      "hp": "12345",
+      "angkatan": "",
+      "status": "Cuti",
+      "id": "1741720000",
+      "": "2019"
+    }
+  ]
+}

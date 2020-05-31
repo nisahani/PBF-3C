@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Cairo&display=swap');
+
+*{
+    background-color: black;
+    font-family: 'Cairo';
+}
+
+input[type=text]
+{
+    background-color: #1b4957;
+    height: 50px;
+    color: aliceblue;
+    border: 0;
+}
+
+input[type=text]:focus
+{
+    background-color: #1b4957;
+    color: aliceblue;
+}
+
+input[type=submit]
+{
+    background-color: #02df79;
+    height: 50px;
+    font-size: 22px;
+}

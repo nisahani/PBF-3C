@@ -1,0 +1,120 @@
+.App {
+    font-family: sans-serif;
+    padding: 50px;
+}
+
+h1 {
+    margin: 0 0 25px 0;
+    text-align: left;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    max-width: 450px;
+    width: auto;
+    border: none;
+    margin: 0 0 25px 0;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+    padding: 10px;
+}
+
+button {
+    width: 125px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+    border: none;
+    padding: 7px;
+    text-align: center;
+    cursor: pointer;
+}
+
+button[type="submit"] {
+    background-color: #4c566a;
+    color: white;
+    font-size: 14px;
+    font-weight: 900;
+    border-radius: 5px;
+    text-transform: uppercase;
+    padding: 15px;
+}
+
+.googleBtn {
+    width: 225px;
+    margin: 0 0 50px 0;
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+}
+
+.googleBtn img {
+    width: 16px;
+    height: 16px;
+    padding: 0;
+    margin: 0 5px;
+    vertical-align: middle;
+}
+
+.nav {
+    display: flex;
+    text-decoration: none;
+    list-style-type: none;
+    justify-content: flex-start;
+    margin: 0 0 50px;
+    padding: 0;
+}
+
+.nav li {
+    margin: 0 10px;
+}
+/* body {
+    background-image: url(https://diujunglangit.com/wp-content/uploads/2019/03/1-16-780x405.jpg);
+    padding: 20px;
+    margin: 0;
+  }
+.judul {
+    background-color: rgb(252, 197, 240);
+}
+.title {
+    color: black;
+}
+.subtitle {
+    color: black;
+}
+h1, h2, p, ul, li {
+    font-family: sans-serif;
+}
+ul.header li {
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+}
+ul.header {
+    background-color: rgb(255, 124, 227);
+    padding: 0;
+}
+ul.header li a {
+    color: #FFF;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 20px;
+    display: inline-block;
+}
+.content {
+    background-color: #FFF;
+    padding: 20px;
+}
+.content h2 {
+    padding: 0;
+    margin: 0;
+}
+.content li {
+    margin-bottom: 10px;
+}
+  .about table{
+    color: black;
+}
+     */
